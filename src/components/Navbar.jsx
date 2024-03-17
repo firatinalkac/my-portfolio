@@ -26,7 +26,7 @@ export default function Navbar() {
       </div>
       {/* LINKS */}
       {/* LOGO */}
-      <div className="w-1/3 flex justify-center">
+      <div className="flex xl:w-1/3 xl:justify-center">
         <Link href="/" className="text-sm bg-black rounded-md p-1">
           <span className='text-white'>firatinlkc</span>
           <span className="text-black bg-white rounded ml-1 px-1">.dev</span>
